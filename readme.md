@@ -1,10 +1,12 @@
 What we will use in CraftyBoilerplate:
 
-* Crafty (latest release)
-* Modernizr (2.5.3)
-* Backbone (0.9.2)
-* Underscore (1.3.4)
-* RequireJquery
+* Crafty (0.5.3)
+* Modernizr (2.6.2)
+* Backbone (0.9.10)
+* Underscore (1.4.3)
+* RequireJS (2.1.4)
+* JQuery (1.9.0)
+* JQuery-migrate (1.0.0)
 
 To clean up the code and files, in this case we need to use backbone.js as wrapper for entities and require.js for loading files when requests. 
 
